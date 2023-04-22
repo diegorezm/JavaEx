@@ -1,3 +1,6 @@
+// Implemente uma classe Círculo, com um único atributo, raio (float). Implemente métodos para 
+// calcular a área, o diâmetro e o perímetro da circunferência.Exiba todos os resultados.
+
 import javax.swing.JOptionPane;
 
 public class Main {

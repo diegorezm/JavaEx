@@ -1,3 +1,5 @@
+// Escreva um aplicativo para ler três inteiros digitados pelo usuário e exibir a soma, a média e 
+// o produto desses números
 import javax.swing.JOptionPane;
 
 public class Main {

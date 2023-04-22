@@ -1,3 +1,5 @@
+// Elabore um aplicativo que receba uma frase. Exiba a frase informada em caixa alta.
+
 import javax.swing.JOptionPane;
 
 public class Main {

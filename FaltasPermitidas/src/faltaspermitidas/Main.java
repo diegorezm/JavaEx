@@ -2,10 +2,9 @@
 Implemente um aplicativo para calcular e exibir o total de 
 faltas permitidas em uma disciplina.
 */
-package faltaspermitidas;
 import javax.swing.JOptionPane;
 
-public class Principal {
+public class Main {
     public static void main(String[] args) {
         //Criação/ instanciação do objeto
         Disciplina   objDisciplina = new Disciplina(); 

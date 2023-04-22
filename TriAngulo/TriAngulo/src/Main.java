@@ -1,3 +1,11 @@
+// Implemente uma classe Triangulo. Os atributos da classe são os lados do triângulo (float). 
+// Implemente métodosde acessoset e get e os seguintes métodos gerais: boolean ehTriangulo() para 
+// verificar se os lados formam triângulo (para  formar  um  triângulo  qualquer  lado  deverá  
+// ser  inferior  a  soma  dosoutros  dois);  String  tipoTriangulo()  para retornar um dos 
+// tipos: Equilátero (todos oslados iguais), Isósceles (somente dois lados iguais) ou 
+// Escaleno( todosos lados são diferentes); float perimetroTriangulo() para calcular 
+// e retornar a soma de todos os lados do triângulo. 
+
 import javax.swing.JOptionPane;
 
 public class Main {

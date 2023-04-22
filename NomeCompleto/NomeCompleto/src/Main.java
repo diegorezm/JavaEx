@@ -1,6 +1,9 @@
+//Elabore um aplicativo para armazenar o nomee osobrenome de uma pessoa. 
+//Implemente um método para permitir que seja exibido o nome completo da pessoa.
+
 import javax.swing.JOptionPane;
 
-public class Principal {
+public class Main {
     public static void main(String[] args) {
     Nomes objNomes = new Nomes();
 

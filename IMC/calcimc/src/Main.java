@@ -1,3 +1,5 @@
+// Elabore um aplicativo que recebe a altura e o peso de um atleta. Calcule e exiba o 
+// índice de massa corpórea (IMC).
 import javax.swing.JOptionPane;
 
 public class Main {

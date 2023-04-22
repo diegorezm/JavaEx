@@ -1,7 +1,6 @@
 public class Calc {
     private int prim,sec,tre;
 
-
     // get 
     public int getPrim(){
         return prim;

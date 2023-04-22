@@ -1,3 +1,7 @@
+// Uma academia, preocupada com a saúde de seus usuários, que na maioria estãoacima do peso, 
+// resolveu fazer um levantamento quanto ao Índice de Massa Corpórea (IMC).  Para isso, o contratou 
+// para elaborar um aplicativo que permita para cada participante:
+
 import javax.swing.JOptionPane;
 public class Main {
     public static void main(String[] args) throws Exception {

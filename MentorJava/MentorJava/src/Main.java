@@ -1,3 +1,9 @@
+// Elabore um aplicativo para armazenar o ra, nome, disciplina, nota do instrumento parcialenota 
+// do instrumento  principalobtidos  na  disciplina.  Implemente  método  para  calcular  a nota  
+// finaldo  aluno sabendo que é o somatório de todos os instrumentos. Exiba o boletim do aluno 
+// contendo:ra, nome, disciplinae a nota finalobtida pelo aluno.
+
+
 import javax.swing.JOptionPane;
 
 import classes.Aluno;

@@ -1,5 +1,5 @@
+// Faça um aplicativo que receba um número inteiro, calcule e exiba a raiz quadrada desse número.
 import javax.swing.JOptionPane;
-
 public class Main {
     public static void main(String[] args) {
         Calc calc = new Calc();

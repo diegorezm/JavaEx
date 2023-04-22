@@ -6,7 +6,6 @@ public class Calc{
         this.num = num;
     }
 
-
     //method
     public double getRaiz(){
         double raiz = Math.sqrt(num);
