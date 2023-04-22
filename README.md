@@ -1,1 +1,6 @@
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Linguagem%20&align=center&borderRadius=5&fontFamily=JetBrainsMono%20&lineCount=1&theme=catppuccin_macchiato&line1=Java,Java,c01c28;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Linguagem%20&align=center&borderRadius=5&fontFamily=JetBrainsMono%20&lineCount=1&theme=catppuccin_macchiato&line1=Java,Java,c01c28;)
+# Java
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+Começando a estudar a lingua.
+
+
+
